@@ -12,3 +12,11 @@ Airline route selection is a very difficult and interesting problem. You aim to 
 * data: data files containing cities, plane fleets, etc
 * algorithms: the cool stuff
 
+## Algorithm Approaches
+
+* Genetic Algorithm
+* Monte Carlo Search Tree
+
+## Assumptions
+
+* Demand to travel from city A to city B is a function of the sum of the populations of city A and city B
